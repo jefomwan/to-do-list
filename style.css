@@ -1,0 +1,14 @@
+button {
+    margin:1cm
+}
+#addbtn {
+    background-color: green;
+    color: white;
+}
+#rembtn {
+    background-color: red;
+    color: white;
+}
+#errmsg {
+    color: red;
+}
